@@ -1,7 +1,9 @@
+import ZODB
 from flask import Blueprint
-from app import db
+from app import app
 
 api_routes = Blueprint('account_api', __name__)
+db = ZODB(app)
 
 @app.before_request
 def set_db_defaults():
