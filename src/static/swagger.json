@@ -1,0 +1,15 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+      "description": "Eat a dick bitch",
+      "version": "1.0.0",
+      "title": "How to kill youself in 2 seconds",
+      "contact": {
+        "email": "eatshit@gmail.com"
+      },
+      "license": {
+        "name": "MIT",
+        "url": "https://opensource.org/licenses/MIT"
+      }
+    }
+  }
